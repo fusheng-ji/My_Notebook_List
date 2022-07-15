@@ -25,9 +25,7 @@
 ## Programming Languages
 
 - [Bash Scripting Notebook](https://github.com/fusheng-ji/Bash_Scripting_Notebook)
-- [Cpp Notebook](https://github.com/fusheng-ji/Cpp_Notebook)
-- [OpenCV Notebook](https://github.com/fusheng-ji/OpenCV_Notebook)
-- [Data structure and Algorithms in Python](https://github.com/fusheng-ji/DS_Algorithms_in_python)
+- [Essential_CPP](https://github.com/fusheng-ji/Essential_CPP)
 
 ## Languages
 
